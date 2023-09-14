@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Second Year B.Tech(CSE) Student at KCC Institute of Technology and Management
-Front-end Developer
+A pre-final year B.Tech(CSE) Student at KCC Institute of Technology and Management
